@@ -272,9 +272,4 @@ pred_mask = (pred_mask > 0.5)*1.0
 
 helper.show_image(image, mask, pred_mask.detach().cpu().squeeze(0))
 
-"""# For updates about upcoming and current guided projects follow me on...
 
-Twitter : @parth_AI
-
-Linkedin : www.linkedin.com/in/pdhameliya
-"""
